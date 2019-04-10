@@ -1,0 +1,1346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ca27766-e3fe-4b2d-8d70-b7fd9ef5c8c3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/WEB-INF/lib/antlr.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/WEB-INF/lib/asm-attrs.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/WEB-INF/lib/asm.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/WEB-INF/lib/cglib-nodep-2.1_3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/WEB-INF/lib/commons-collections-3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/WEB-INF/lib/commons-fileupload-1.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/WEB-INF/lib/commons-io-2.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/WEB-INF/lib/commons-io-2.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/WEB-INF/lib/commons-io-2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/WEB-INF/lib/commons-logging-1.1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/WEB-INF/lib/dom4j.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/WEB-INF/lib/ehcache-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/WEB-INF/lib/hibernate3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/WEB-INF/lib/jackson-core-asl-1.9.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/WEB-INF/lib/jackson-jaxrs-1.9.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/WEB-INF/lib/jackson-mapper-asl-1.9.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/WEB-INF/lib/jackson-xc-1.9.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/WEB-INF/lib/jersey-client-1.19.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/WEB-INF/lib/jersey-core-1.19.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/WEB-INF/lib/jersey-json-1.19.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/WEB-INF/lib/jersey-server-1.19.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/WEB-INF/lib/jersey-servlet-1.19.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/WEB-INF/lib/jettison-1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/WEB-INF/lib/json-simple-1.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/WEB-INF/lib/jsoup-1.8.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/WEB-INF/lib/jsoup-1.8.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/WEB-INF/lib/jsoup-1.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/WEB-INF/lib/jsr311-api-1.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/WEB-INF/lib/jta.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/WEB-INF/lib/log4j-1.2.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/WEB-INF/lib/mysql-connector-java-3.1.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/WEB-INF/lib/servlet-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/WEB-INF/lib/standard-1.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/WEB-INF/lib/xmlbeans-2.6.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/css/jquery.autocomplete.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/frequencypage.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/getdata.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../WebContent/js/jquery.autocomplete.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/Controller/frequencypage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/Controller/mainController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/Controller/mainController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/file/fileread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/About W3C Standards.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Accessibility - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Accessible Rich Internet Applications (WAI-ARIA) 1.0.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/All Standards and Drafts - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Architecture Principles - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Audio and Video - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Authoring Tools and Social Media - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Best Practices for Publishing Linked Data.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Best practices for creating MMI Modality Components.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Browsers and Authoring Tools - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Browsers and Media Players- W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/CC PP Implementors Guide  Privacy and Protocols.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/CSS Namespaces Module Level 3.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/CSS3 module  Presentation Levels.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Component Extension (CX) API requirements Version 1.0.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Components - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Composite Capabilities Preference Profiles  Terminology and Abbreviations.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Cross-Origin Resource Sharing.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Data - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Defining N-ary Relations on the Semantic Web.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Design of HTTP-NG Testbed.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Device APIs Requirements.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Device Independence and Content Adaptation - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Graphics - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Guidelines for Web Content Transformation Proxies 1.0.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/HTML &amp; CSS - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/HTML Imports.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/HTML Templates.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/HTTP-NG Binary Wire Protocol.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Identifiers - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Inference - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Internationalization - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/JavaScript Web APIs - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/LBase  Semantics for Languages of the Semantic Web.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Legacy extended IRIs for XML resource identification.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Linked Data Glossary.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/MBUI - Task Models.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Meta Formats - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Metadata API for Media Resources 1.0.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Mobile Web - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Mobile Web Application Best Practices.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Multimodal Access - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/OWL 2 RL in RIF (Second Edition).htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/OWL 2 Web Ontology Language Direct Semantics (Second Edition).htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/OWL 2 Web Ontology Language Mapping to RDF Graphs (Second Edition).htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/OWL 2 Web Ontology Language New Features and Rationale (Second Edition).htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/OWL 2 Web Ontology Language RDF-Based Semantics (Second Edition).htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/OWL 2 Web Ontology Language XML Serialization (Second Edition).htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/OWL Web Ontology Language Overview.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Offline Web Applications.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Ontologies - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/PEP - an Extension Mechanism for HTTP.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Permissions for Device API Access.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Privacy - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Processing - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Protocols - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Publishing - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Query - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/RDF 1.1 Turtle.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Representing Classes As Property Values on the Semantic Web.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Representing Specified Values in OWL   value partitions  and  value sets .htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Roadmap for Accessible Rich Internet Applications (WAI-ARIA Roadmap).htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Role Attribute 1.0.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Schema - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Security - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Semantic Web - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Service Description - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Subresource Integrity.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Techniques for User Agent Accessibility Guidelines 1.0.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Terms for describing people.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/The ILU Requestor for HTTP servers.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/The RDF Data Cube Vocabulary.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/The WebSocket API.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Tracking Compliance and Scope.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Transformation - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Vertical Applications - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Vocabularies for EmotionML.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Voice Browsing - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/W3C WD  SMUX Protocol Specification.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/W3C activities related to Electronic Commerce.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/WAI-ARIA 1.0 Authoring Practices.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Web Architecture - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Web Audio Processing  Use Cases and Requirements.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Web Design and Applications - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Web MIDI API.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Web Security Context  User Interface Guidelines.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Web Services Architecture.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Web Services Policy 1.5 - Framework.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Web and TV - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Web of Devices - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/Web of Services - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/World Wide Web Consortium (W3C).htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/XHTML Basic 1.1 - Second Edition.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/XML Essentials - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/XML Linking Language (XLink) Version 1.1.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/XML Schema Datatypes in RDF and OWL.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/XML Signature Syntax and Processing Version 1.1.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/XML Technology - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/XMLHttpRequest Level 1.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/htmls/XPath and XQuery Functions and Operators 3.0.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/logic/countmatch$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/logic/countmatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/About W3C Standards.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Accessibility - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Accessible Rich Internet Applications (WAI-ARIA) 1.0.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/All Standards and Drafts - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Architecture Principles - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Audio and Video - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Authoring Tools and Social Media - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Best Practices for Publishing Linked Data.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Best practices for creating MMI Modality Components.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Browsers and Authoring Tools - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Browsers and Media Players- W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/CC PP Implementors Guide  Privacy and Protocols.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/CSS Namespaces Module Level 3.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/CSS3 module  Presentation Levels.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Component Extension (CX) API requirements Version 1.0.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Components - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Composite Capabilities Preference Profiles  Terminology and Abbreviations.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Cross-Origin Resource Sharing.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Data - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Defining N-ary Relations on the Semantic Web.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Design of HTTP-NG Testbed.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Device APIs Requirements.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Device Independence and Content Adaptation - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Graphics - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Guidelines for Web Content Transformation Proxies 1.0.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/HTML &amp; CSS - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/HTML Imports.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/HTML Templates.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/HTTP-NG Binary Wire Protocol.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Identifiers - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Inference - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Internationalization - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/JavaScript Web APIs - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/LBase  Semantics for Languages of the Semantic Web.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Legacy extended IRIs for XML resource identification.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Linked Data Glossary.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/MBUI - Task Models.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Meta Formats - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Metadata API for Media Resources 1.0.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Mobile Web - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Mobile Web Application Best Practices.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Multimodal Access - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/OWL 2 RL in RIF (Second Edition).htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/OWL 2 Web Ontology Language Direct Semantics (Second Edition).htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/OWL 2 Web Ontology Language Mapping to RDF Graphs (Second Edition).htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/OWL 2 Web Ontology Language New Features and Rationale (Second Edition).htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/OWL 2 Web Ontology Language RDF-Based Semantics (Second Edition).htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/OWL 2 Web Ontology Language XML Serialization (Second Edition).htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/OWL Web Ontology Language Overview.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Offline Web Applications.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Ontologies - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/PEP - an Extension Mechanism for HTTP.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Permissions for Device API Access.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Privacy - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Processing - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Protocols - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Publishing - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Query - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/RDF 1.1 Turtle.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Representing Classes As Property Values on the Semantic Web.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Representing Specified Values in OWL   value partitions  and  value sets .htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Roadmap for Accessible Rich Internet Applications (WAI-ARIA Roadmap).htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Role Attribute 1.0.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Schema - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Security - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Semantic Web - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Service Description - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Subresource Integrity.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Techniques for User Agent Accessibility Guidelines 1.0.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Terms for describing people.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/The ILU Requestor for HTTP servers.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/The RDF Data Cube Vocabulary.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/The WebSocket API.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Tracking Compliance and Scope.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Transformation - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Vertical Applications - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Vocabularies for EmotionML.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Voice Browsing - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/W3C WD  SMUX Protocol Specification.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/W3C activities related to Electronic Commerce.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/WAI-ARIA 1.0 Authoring Practices.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Web Architecture - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Web Audio Processing  Use Cases and Requirements.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Web Design and Applications - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Web MIDI API.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Web Security Context  User Interface Guidelines.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Web Services Architecture.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Web Services Policy 1.5 - Framework.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Web and TV - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Web of Devices - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/Web of Services - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/World Wide Web Consortium (W3C).htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/XHTML Basic 1.1 - Second Edition.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/XML Essentials - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/XML Linking Language (XLink) Version 1.1.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/XML Schema Datatypes in RDF and OWL.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/XML Signature Syntax and Processing Version 1.1.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/XML Technology - W3C.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/XMLHttpRequest Level 1.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build/classes/textfile/XPath and XQuery Functions and Operators 3.0.htm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/Controller/AutoComplete.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/Controller/CreateTST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/Controller/In.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/Controller/PageCrawler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/Controller/Queue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/Controller/StdIn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/Controller/StdOut.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/Controller/Trie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/Controller/frequencypage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/Controller/mainController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/file/fileread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/About W3C Standards.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Accessibility - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Accessible Rich Internet Applications (WAI-ARIA) 1.0.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/All Standards and Drafts - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Architecture Principles - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Audio and Video - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Authoring Tools and Social Media - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Best Practices for Publishing Linked Data.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Best practices for creating MMI Modality Components.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Browsers and Authoring Tools - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Browsers and Media Players- W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/CC PP Implementors Guide  Privacy and Protocols.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/CSS Namespaces Module Level 3.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/CSS3 module  Presentation Levels.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Component Extension (CX) API requirements Version 1.0.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Components - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Composite Capabilities Preference Profiles  Terminology and Abbreviations.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Cross-Origin Resource Sharing.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Data - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Defining N-ary Relations on the Semantic Web.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Design of HTTP-NG Testbed.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Device APIs Requirements.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Device Independence and Content Adaptation - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Graphics - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Guidelines for Web Content Transformation Proxies 1.0.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/HTML &amp; CSS - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/HTML Imports.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/HTML Templates.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/HTTP-NG Binary Wire Protocol.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Identifiers - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Inference - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Internationalization - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/JavaScript Web APIs - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/LBase  Semantics for Languages of the Semantic Web.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Legacy extended IRIs for XML resource identification.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Linked Data Glossary.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/MBUI - Task Models.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Meta Formats - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Metadata API for Media Resources 1.0.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Mobile Web - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Mobile Web Application Best Practices.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Multimodal Access - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/OWL 2 RL in RIF (Second Edition).htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/OWL 2 Web Ontology Language Direct Semantics (Second Edition).htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/OWL 2 Web Ontology Language Mapping to RDF Graphs (Second Edition).htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/OWL 2 Web Ontology Language New Features and Rationale (Second Edition).htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/OWL 2 Web Ontology Language RDF-Based Semantics (Second Edition).htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/OWL 2 Web Ontology Language XML Serialization (Second Edition).htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/OWL Web Ontology Language Overview.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Offline Web Applications.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Ontologies - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/PEP - an Extension Mechanism for HTTP.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Permissions for Device API Access.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Privacy - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Processing - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Protocols - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Publishing - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Query - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/RDF 1.1 Turtle.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Representing Classes As Property Values on the Semantic Web.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Representing Specified Values in OWL   value partitions  and  value sets .htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Roadmap for Accessible Rich Internet Applications (WAI-ARIA Roadmap).htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Role Attribute 1.0.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Schema - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Security - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Semantic Web - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Service Description - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Subresource Integrity.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Techniques for User Agent Accessibility Guidelines 1.0.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Terms for describing people.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/The ILU Requestor for HTTP servers.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/The RDF Data Cube Vocabulary.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/The WebSocket API.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Tracking Compliance and Scope.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Transformation - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Vertical Applications - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Vocabularies for EmotionML.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Voice Browsing - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/W3C WD  SMUX Protocol Specification.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/W3C activities related to Electronic Commerce.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/WAI-ARIA 1.0 Authoring Practices.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Web Architecture - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Web Audio Processing  Use Cases and Requirements.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Web Design and Applications - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Web MIDI API.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Web Security Context  User Interface Guidelines.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Web Services Architecture.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Web Services Policy 1.5 - Framework.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Web and TV - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Web of Devices - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/Web of Services - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/World Wide Web Consortium (W3C).htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/XHTML Basic 1.1 - Second Edition.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/XML Essentials - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/XML Linking Language (XLink) Version 1.1.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/XML Schema Datatypes in RDF and OWL.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/XML Signature Syntax and Processing Version 1.1.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/XML Technology - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/XMLHttpRequest Level 1.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/htmls/XPath and XQuery Functions and Operators 3.0.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/logic/countmatch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/About W3C Standards.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Accessibility - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Accessible Rich Internet Applications (WAI-ARIA) 1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/All Standards and Drafts - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Architecture Principles - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Audio and Video - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Authoring Tools and Social Media - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Best Practices for Publishing Linked Data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Best practices for creating MMI Modality Components.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Browsers and Authoring Tools - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Browsers and Media Players- W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/CC PP Implementors Guide  Privacy and Protocols.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/CSS Namespaces Module Level 3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/CSS3 module  Presentation Levels.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Component Extension (CX) API requirements Version 1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Components - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Composite Capabilities Preference Profiles  Terminology and Abbreviations.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Cross-Origin Resource Sharing.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Data - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Defining N-ary Relations on the Semantic Web.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Design of HTTP-NG Testbed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Device APIs Requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Device Independence and Content Adaptation - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Graphics - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Guidelines for Web Content Transformation Proxies 1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/HTML &amp; CSS - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/HTML Imports.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/HTML Templates.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/HTTP-NG Binary Wire Protocol.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Identifiers - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Inference - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Internationalization - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/JavaScript Web APIs - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/LBase  Semantics for Languages of the Semantic Web.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Legacy extended IRIs for XML resource identification.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Linked Data Glossary.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/MBUI - Task Models.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Meta Formats - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Metadata API for Media Resources 1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Mobile Web - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Mobile Web Application Best Practices.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Multimodal Access - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/OWL 2 RL in RIF (Second Edition).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/OWL 2 Web Ontology Language Direct Semantics (Second Edition).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/OWL 2 Web Ontology Language Mapping to RDF Graphs (Second Edition).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/OWL 2 Web Ontology Language New Features and Rationale (Second Edition).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/OWL 2 Web Ontology Language RDF-Based Semantics (Second Edition).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/OWL 2 Web Ontology Language XML Serialization (Second Edition).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/OWL Web Ontology Language Overview.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Offline Web Applications.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Ontologies - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/PEP - an Extension Mechanism for HTTP.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Permissions for Device API Access.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Privacy - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Processing - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Protocols - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Publishing - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Query - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/RDF 1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Representing Classes As Property Values on the Semantic Web.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Representing Specified Values in OWL   value partitions  and  value sets .txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Roadmap for Accessible Rich Internet Applications (WAI-ARIA Roadmap).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Role Attribute 1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Schema - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Security - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Semantic Web - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Service Description - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Subresource Integrity.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Techniques for User Agent Accessibility Guidelines 1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Terms for describing people.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/The ILU Requestor for HTTP servers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/The RDF Data Cube Vocabulary.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/The WebSocket API.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Tracking Compliance and Scope.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Transformation - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Vertical Applications - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Vocabularies for EmotionML.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Voice Browsing - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/W3C WD  SMUX Protocol Specification.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/W3C activities related to Electronic Commerce.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/WAI-ARIA 1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Web Architecture - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Web Audio Processing  Use Cases and Requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Web Design and Applications - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Web MIDI API.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Web Security Context  User Interface Guidelines.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Web Services Architecture.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Web Services Policy 1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Web and TV - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Web of Devices - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/Web of Services - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/World Wide Web Consortium (W3C).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/XHTML Basic 1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/XML Essentials - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/XML Linking Language (XLink) Version 1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/XML Schema Datatypes in RDF and OWL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/XML Signature Syntax and Processing Version 1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/XML Technology - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/XMLHttpRequest Level 1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../src/textfile/XPath and XQuery Functions and Operators 3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/Controller/AutoComplete.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/Controller/CreateTST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/Controller/In.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/Controller/PageCrawler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/Controller/Queue$ListIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/Controller/Queue$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/Controller/Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/Controller/StdIn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/Controller/StdOut.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/Controller/Trie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/Controller/frequencypage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/Controller/mainController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/Controller/mainController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/file/fileread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/About W3C Standards.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Accessibility - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Accessible Rich Internet Applications (WAI-ARIA) 1.0.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/All Standards and Drafts - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Architecture Principles - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Audio and Video - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Authoring Tools and Social Media - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Best Practices for Publishing Linked Data.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Best practices for creating MMI Modality Components.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Browsers and Authoring Tools - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Browsers and Media Players- W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/CC PP Implementors Guide  Privacy and Protocols.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/CSS Namespaces Module Level 3.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/CSS3 module  Presentation Levels.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Component Extension (CX) API requirements Version 1.0.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Components - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Composite Capabilities Preference Profiles  Terminology and Abbreviations.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Cross-Origin Resource Sharing.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Data - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Defining N-ary Relations on the Semantic Web.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Design of HTTP-NG Testbed.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Device APIs Requirements.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Device Independence and Content Adaptation - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Graphics - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Guidelines for Web Content Transformation Proxies 1.0.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/HTML &amp; CSS - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/HTML Imports.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/HTML Templates.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/HTTP-NG Binary Wire Protocol.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Identifiers - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Inference - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Internationalization - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/JavaScript Web APIs - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/LBase  Semantics for Languages of the Semantic Web.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Legacy extended IRIs for XML resource identification.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Linked Data Glossary.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/MBUI - Task Models.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Meta Formats - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Metadata API for Media Resources 1.0.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Mobile Web - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Mobile Web Application Best Practices.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Multimodal Access - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/OWL 2 RL in RIF (Second Edition).htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/OWL 2 Web Ontology Language Direct Semantics (Second Edition).htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/OWL 2 Web Ontology Language Mapping to RDF Graphs (Second Edition).htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/OWL 2 Web Ontology Language New Features and Rationale (Second Edition).htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/OWL 2 Web Ontology Language RDF-Based Semantics (Second Edition).htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/OWL 2 Web Ontology Language XML Serialization (Second Edition).htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/OWL Web Ontology Language Overview.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Offline Web Applications.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Ontologies - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/PEP - an Extension Mechanism for HTTP.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Permissions for Device API Access.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Privacy - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Processing - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Protocols - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Publishing - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Query - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/RDF 1.1 Turtle.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Representing Classes As Property Values on the Semantic Web.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Representing Specified Values in OWL   value partitions  and  value sets .htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Roadmap for Accessible Rich Internet Applications (WAI-ARIA Roadmap).htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Role Attribute 1.0.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Schema - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Security - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Semantic Web - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Service Description - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Subresource Integrity.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Techniques for User Agent Accessibility Guidelines 1.0.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Terms for describing people.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/The ILU Requestor for HTTP servers.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/The RDF Data Cube Vocabulary.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/The WebSocket API.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Tracking Compliance and Scope.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Transformation - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Vertical Applications - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Vocabularies for EmotionML.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Voice Browsing - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/W3C WD  SMUX Protocol Specification.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/W3C activities related to Electronic Commerce.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/WAI-ARIA 1.0 Authoring Practices.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Web Architecture - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Web Audio Processing  Use Cases and Requirements.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Web Design and Applications - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Web MIDI API.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Web Security Context  User Interface Guidelines.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Web Services Architecture.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Web Services Policy 1.5 - Framework.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Web and TV - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Web of Devices - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/Web of Services - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/World Wide Web Consortium (W3C).htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/XHTML Basic 1.1 - Second Edition.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/XML Essentials - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/XML Linking Language (XLink) Version 1.1.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/XML Schema Datatypes in RDF and OWL.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/XML Signature Syntax and Processing Version 1.1.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/XML Technology - W3C.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/XMLHttpRequest Level 1.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/htmls/XPath and XQuery Functions and Operators 3.0.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/logic/countmatch$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/logic/countmatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/About W3C Standards.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Accessibility - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Accessible Rich Internet Applications (WAI-ARIA) 1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/All Standards and Drafts - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Architecture Principles - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Audio and Video - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Authoring Tools and Social Media - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Best Practices for Publishing Linked Data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Best practices for creating MMI Modality Components.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Browsers and Authoring Tools - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Browsers and Media Players- W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/CC PP Implementors Guide  Privacy and Protocols.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/CSS Namespaces Module Level 3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/CSS3 module  Presentation Levels.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Component Extension (CX) API requirements Version 1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Components - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Composite Capabilities Preference Profiles  Terminology and Abbreviations.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Cross-Origin Resource Sharing.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Data - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Defining N-ary Relations on the Semantic Web.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Design of HTTP-NG Testbed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Device APIs Requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Device Independence and Content Adaptation - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Graphics - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Guidelines for Web Content Transformation Proxies 1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/HTML &amp; CSS - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/HTML Imports.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/HTML Templates.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/HTTP-NG Binary Wire Protocol.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Identifiers - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Inference - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Internationalization - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/JavaScript Web APIs - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/LBase  Semantics for Languages of the Semantic Web.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Legacy extended IRIs for XML resource identification.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Linked Data Glossary.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/MBUI - Task Models.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Meta Formats - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Metadata API for Media Resources 1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Mobile Web - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Mobile Web Application Best Practices.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Multimodal Access - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/OWL 2 RL in RIF (Second Edition).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/OWL 2 Web Ontology Language Direct Semantics (Second Edition).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/OWL 2 Web Ontology Language Mapping to RDF Graphs (Second Edition).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/OWL 2 Web Ontology Language New Features and Rationale (Second Edition).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/OWL 2 Web Ontology Language RDF-Based Semantics (Second Edition).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/OWL 2 Web Ontology Language XML Serialization (Second Edition).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/OWL Web Ontology Language Overview.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Offline Web Applications.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Ontologies - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/PEP - an Extension Mechanism for HTTP.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Permissions for Device API Access.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Privacy - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Processing - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Protocols - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Publishing - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Query - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/RDF 1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Representing Classes As Property Values on the Semantic Web.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Representing Specified Values in OWL   value partitions  and  value sets .txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Roadmap for Accessible Rich Internet Applications (WAI-ARIA Roadmap).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Role Attribute 1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Schema - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Security - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Semantic Web - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Service Description - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Subresource Integrity.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Techniques for User Agent Accessibility Guidelines 1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Terms for describing people.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/The ILU Requestor for HTTP servers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/The RDF Data Cube Vocabulary.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/The WebSocket API.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Tracking Compliance and Scope.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Transformation - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Vertical Applications - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Vocabularies for EmotionML.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Voice Browsing - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/W3C WD  SMUX Protocol Specification.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/W3C activities related to Electronic Commerce.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/WAI-ARIA 1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Web Architecture - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Web Audio Processing  Use Cases and Requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Web Design and Applications - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Web MIDI API.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Web Security Context  User Interface Guidelines.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Web Services Architecture.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Web Services Policy 1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Web and TV - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Web of Devices - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/Web of Services - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/World Wide Web Consortium (W3C).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/XHTML Basic 1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/XML Essentials - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/XML Linking Language (XLink) Version 1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/XML Schema Datatypes in RDF and OWL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/XML Signature Syntax and Processing Version 1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/XML Technology - W3C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/XMLHttpRequest Level 1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/textfile/XPath and XQuery Functions and Operators 3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/m2e-wtp/web-resources/META-INF/maven/computing/computing/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/m2e-wtp/web-resources/META-INF/maven/computing/computing/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="90513b60:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="90513b60:SqliteImplModel$Schema" />
+        <item name="eproperty_property: table" type="ffe0bd85:SqliteImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="90513b60:SqliteImplModel$Schema" />
+        <item name="eproperty_propertyimages: table" type="ffe0bd85:SqliteImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="353219736">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.173" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="181" />
+          <entry key="py@SavaninRealEstate" value="36" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CommandLine" value="36" />
+          <entry key="Python" value="181" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-2126973770">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="JPG" value="2" />
+          <entry key="eproperty_city" value="2" />
+          <entry key="eproperty_country" value="2" />
+          <entry key="eproperty_property" value="2" />
+          <entry key="eproperty_propertycategory" value="1" />
+          <entry key="eproperty_propertyfacing" value="1" />
+          <entry key="eproperty_propertysector" value="1" />
+          <entry key="eproperty_province" value="2" />
+          <entry key="html" value="10" />
+          <entry key="pgm" value="4" />
+          <entry key="py" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Database Element" value="11" />
+          <entry key="HTML" value="10" />
+          <entry key="Image" value="6" />
+          <entry key="Python" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cell" value="158" />
+          <entry key="html" value="321" />
+          <entry key="py" value="713" />
+          <entry key="py@SavaninRealEstate" value="109" />
+          <entry key="sql" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CommandLine" value="53" />
+          <entry key="HTML" value="321" />
+          <entry key="PLAIN_TEXT" value="56" />
+          <entry key="Python" value="713" />
+          <entry key="SQL" value="4" />
+          <entry key="Scratch" value="158" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1530429609">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="html" value="2" />
+          <entry key="py" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="2" />
+          <entry key="Python" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="3" />
+          <entry key="html" value="157" />
+          <entry key="py" value="146" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="3" />
+          <entry key="HTML" value="157" />
+          <entry key="Python" value="146" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1420012158">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="4" />
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="4" />
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="5" />
+          <entry key="py" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="5" />
+          <entry key="Python" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-2127030775">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/home/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="870">
+              <caret line="58" column="29" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/eproperty/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7860">
+              <caret line="554" column="38" selection-start-line="554" selection-start-column="38" selection-end-line="554" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>PropertyCity</find>
+      <find>property</find>
+      <find>propertyci</find>
+      <find>list_display</find>
+      <find>prop</find>
+      <find>propertyCategory</find>
+      <find>propertyStreet</find>
+      <find>home(</find>
+      <find>find you</find>
+      <find>singl</find>
+      <find>userlistad</find>
+      <find>register</find>
+      <find>max-</find>
+      <find>templatehelpers</find>
+      <find>APPEND_SLASH</find>
+      <find>adve</find>
+      <find>propertyli</find>
+      <find>cityName</find>
+      <find>propertylisting</find>
+      <find>list</find>
+      <find>propertylis</find>
+      <find>listpropertyimage</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SavaninRealEstate/urls.py" />
+        <option value="$PROJECT_DIR$/SavaninRealEstate/settings.py" />
+        <option value="$PROJECT_DIR$/eproperty/forms.py" />
+        <option value="$PROJECT_DIR$/eproperty/admin.py" />
+        <option value="$PROJECT_DIR$/templates/admin_portal/listProperty.html" />
+        <option value="$PROJECT_DIR$/templates/home/manageProperty.html" />
+        <option value="$PROJECT_DIR$/static/css/style.css" />
+        <option value="$PROJECT_DIR$/eproperty/templatehelpers.py" />
+        <option value="$PROJECT_DIR$/templates/admin_portal/listPropertyImage.html" />
+        <option value="$PROJECT_DIR$/eproperty/models.py" />
+        <option value="$PROJECT_DIR$/templates/home/base.html" />
+        <option value="$PROJECT_DIR$/templates/home/propertylisting.html" />
+        <option value="$PROJECT_DIR$/eproperty/urls.py" />
+        <option value="$PROJECT_DIR$/templates/home/registartionDetail.html" />
+        <option value="$PROJECT_DIR$/templates/home/home.html" />
+        <option value="$PROJECT_DIR$/templates/home/login.html" />
+        <option value="$PROJECT_DIR$/templates/home/register.html" />
+        <option value="$PROJECT_DIR$/eproperty/views.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SavaninRealEstate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SavaninRealEstate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SavaninRealEstate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SavaninRealEstate" type="462c0819:PsiDirectoryNode" />
+              <item name="eproperty" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SavaninRealEstate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SavaninRealEstate" type="462c0819:PsiDirectoryNode" />
+              <item name="SavaninRealEstate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SavaninRealEstate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SavaninRealEstate" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SavaninRealEstate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SavaninRealEstate" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SavaninRealEstate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SavaninRealEstate" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SavaninRealEstate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SavaninRealEstate" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="admin_portal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SavaninRealEstate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SavaninRealEstate" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/eproperty" />
+      <recent name="E:\Nilam\Masters\3rd Term\Internet Application 634\Course Project\SavaninRealEstate\eproperty" />
+      <recent name="E:\Nilam\Masters\3rd Term\Internet Application 634\Course Project\SavaninRealEstate" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="SavaninRealEstate" type="Python.DjangoServer" factoryName="Django server">
+      <module name="SavaninRealEstate" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="SavaninRealEstate.settings" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="http://127.0.0.1:8000/" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ca27766-e3fe-4b2d-8d70-b7fd9ef5c8c3" name="Default Changelist" comment="" />
+      <created>1544837822806</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544837822806</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1595136" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3253012" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="manage.py@SavaninRealEstate" order="10" weight="0.21204819" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Python Console" order="13" />
+      <window_info anchor="bottom" id="Database Console" order="14" weight="0.32891566" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.19986449" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15785907" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32650274" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="manage.py@SavaninRealEstate" order="10" weight="0.21204819" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Python Console" order="13" />
+      <window_info anchor="bottom" id="Database Console" order="14" weight="0.32891566" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.19986449" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SavaninRealEstate/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eproperty/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="62" column="58" selection-start-line="62" selection-start-column="58" selection-end-line="62" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://5edb6477-396c-438a-a68b-9f9052c078c2/schema/main/table/eproperty_propertysector" />
+    <entry file="das://5edb6477-396c-438a-a68b-9f9052c078c2/schema/main/table/eproperty_propertyfacing" />
+    <entry file="das://5edb6477-396c-438a-a68b-9f9052c078c2/schema/main/table/eproperty_propertycategory" />
+    <entry file="file://$PROJECT_DIR$/templates/home/manageProperty.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="81" column="68" selection-start-line="81" selection-start-column="68" selection-end-line="81" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eproperty/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="66" column="18" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eproperty/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="100" selection-start-line="4" selection-start-column="100" selection-end-line="4" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin_portal/listUser.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="70" selection-start-line="38" selection-start-column="70" selection-end-line="38" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin_portal/listProperty.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="23" selection-start-line="55" selection-start-column="23" selection-end-line="55" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6664">
+          <caret line="708" column="20" selection-start-line="708" selection-start-column="20" selection-end-line="708" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eproperty/templatehelpers.py" />
+    <entry file="das://5edb6477-396c-438a-a68b-9f9052c078c2/schema/main/table/eproperty_city" />
+    <entry file="das://5edb6477-396c-438a-a68b-9f9052c078c2/schema/main/table/eproperty_province" />
+    <entry file="das://5edb6477-396c-438a-a68b-9f9052c078c2/schema/main/table/eproperty_country" />
+    <entry file="file://$PROJECT_DIR$/media/IMG_3750_ofCeFaJ.JPG" />
+    <entry file="file://$PROJECT_DIR$/media/IMG_3750.JPG" />
+    <entry file="file://$PROJECT_DIR$/media/m1.pgm" />
+    <entry file="file://$PROJECT_DIR$/media/m1_7hr0i5l.pgm" />
+    <entry file="das://5edb6477-396c-438a-a68b-9f9052c078c2/schema/main/table/eproperty_property" />
+    <entry file="file://$PROJECT_DIR$/SavaninRealEstate/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eproperty/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="39" column="81" selection-start-line="39" selection-start-column="81" selection-end-line="39" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home/registartionDetail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="62" lean-forward="true" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-526" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home/acc_active_email.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eproperty/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1648">
+          <caret line="74" column="33" selection-start-line="74" selection-start-column="33" selection-end-line="74" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin_portal/listPropertyImage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home/propertylisting.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1189">
+          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="58" column="29" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eproperty/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7860">
+          <caret line="554" column="38" selection-start-line="554" selection-start-column="38" selection-end-line="554" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
